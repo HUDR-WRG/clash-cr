@@ -2,3 +2,4 @@
 ```
 https://raw.githubusercontent.com/HUDR-WRG/clash-cr/refs/heads/main/customrules.ini
 ```
+轻量,防泄漏,但可能多花流量
