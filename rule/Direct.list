@@ -3,5 +3,6 @@ DOMAIN-SUFFIX,waadri.top
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,koyso.com
 DOMAIN-SUFFIX,pairdrop.net
+# steam下载直连
 DOMAIN,steamcdn-a.akamaihd.net
 DOMAIN-SUFFIX,steamserver.net
